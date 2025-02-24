@@ -1,0 +1,12 @@
+[submodule "schema"]
+	path = schema
+	url = https://github.com/exdata-inc/dbp-schema.git
+[submodule "brewer/examples/csv-numerical-conversion"]
+	path = brewer/examples/csv-numerical-conversion
+	url = https://github.com/exdata-inc/DBP-BrewerExample-Numerical.git
+[submodule "brewer/template"]
+	path = brewer/template
+	url = https://github.com/exdata-inc/DBP-BrewerTemplate.git
+[submodule "brewer/examples/movie-conversion"]
+	path = brewer/examples/movie-conversion
+	url = https://github.com/exdata-inc/DBP-BrewerExample-Movie.git
