@@ -13,3 +13,6 @@
 [submodule "manager"]
 	path = manager
 	url = https://github.com/exdata-inc/DBP-Manager.git
+[submodule "json-ld-utils"]
+	path = json-ld-utils
+	url = https://github.com/exdata-inc/dbp-json-ld-utils.git
