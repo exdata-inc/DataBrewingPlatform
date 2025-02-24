@@ -10,3 +10,6 @@
 [submodule "brewer/examples/movie-conversion"]
 	path = brewer/examples/movie-conversion
 	url = https://github.com/exdata-inc/DBP-BrewerExample-Movie.git
+[submodule "manager"]
+	path = manager
+	url = https://github.com/exdata-inc/DBP-Manager.git
